@@ -7,6 +7,7 @@ Complete all-in-one HTML tutorial by Dave Gray.
 - [YouTube Video](https://youtu.be/mJgBOIoGihA)
 - [CSS Validation Service](https://jigsaw.w3.org/css-validator/)
 - [Anatomy of a CSS ruleset](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics#anatomy_of_a_css_ruleset)
+- [CSS Specificity Calculator](https://specificity.keegan.st/)
 
 ## Main Topics
 
@@ -14,3 +15,11 @@ Complete all-in-one HTML tutorial by Dave Gray.
 	- Inline CSS (included within specific elements)
 	- Internal CSS (included within the head section)
 	- External CSS (stored in a separate file)
+- CSS Selectors (specificity order)
+	- universal selector
+	- element selector
+	- class selector
+	- id selector
+- CSS Property Inheritance
+	- it controls what happens when no value is specified for a property on an element
+

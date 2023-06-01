@@ -1,0 +1,33 @@
+* {
+	font-family: monospace;	
+}
+
+body {
+	font-size: 22px;
+}
+
+h1, h2 {
+	color: blue;
+}
+
+p {
+	color: purple;
+}
+
+/* FORM elements do not tipically inherit font settings */
+button, input {
+	font: inherit;
+}
+
+.highlight {
+	text-transform: uppercase;
+	background-color: gold;
+}
+
+.gray {
+	color: grey;
+}
+
+#second {
+	font-style: italic;
+}
