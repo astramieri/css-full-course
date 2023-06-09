@@ -7,6 +7,7 @@ Complete all-in-one HTML tutorial by Dave Gray.
 1. Introduction
 2. Selectors
 3. Colors
+4. Units & Sizes
 
 ## Links
 
@@ -29,4 +30,8 @@ Complete all-in-one HTML tutorial by Dave Gray.
 	- id selector
 - CSS Property Inheritance
 	- it controls what happens when no value is specified for a property on an element
+- CSS Units
+	- absolute (e.g. pixels)
+	- relative (e.g. rem)
+	- percentage
 

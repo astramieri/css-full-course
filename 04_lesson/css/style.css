@@ -1,0 +1,33 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+body {
+	width: 100%;
+	min-height: 100vw;
+}
+
+header {
+	width: 50%;
+}
+
+h1 {
+	border: 2px dashed red;
+	width: 100%; /* default for a block element */
+	width: 50%;
+	font-size: 3rem;
+	padding: 0.5em;
+}
+
+main {
+	font-size: 2rem;
+}
+
+p {
+	font-size: 16px; /* default */
+	font-size: 1rem; /* default */
+	font-size: 2rem;
+	width: 40ch;
+}
