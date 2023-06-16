@@ -33,6 +33,6 @@ Complete all-in-one HTML tutorial by Dave Gray.
 	- it controls what happens when no value is specified for a property on an element
 - CSS Units
 	- absolute (e.g. pixels)
-	- relative (e.g. rem)
+	- relative (e.g. rem or em)
 	- percentage
 
