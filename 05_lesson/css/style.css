@@ -1,0 +1,14 @@
+/* a common CSS reset */
+* {
+	margin: 0px;
+	padding: 0px;
+	box-sizing: content-box; /* default */
+	box-sizing: border-box; /* includes border and padding */
+}
+
+h1 {
+	border: 2px dashed red;
+	width: 400px;
+	font-size: 2rem;
+	padding: 0.5em;
+}

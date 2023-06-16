@@ -8,6 +8,7 @@ Complete all-in-one HTML tutorial by Dave Gray.
 2. Selectors
 3. Colors
 4. Units & Sizes
+5. Box Model
 
 ## Links
 
