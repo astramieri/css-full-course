@@ -1,21 +1,40 @@
 * {
+	/* this is not inherited, but it is applied to all elements! */
 	font-family: monospace;	
+	border: 1px solid red;
+}
+
+html {
+	/* this is inherited */
+	font-size: 22px;
 }
 
 body {
-	font-size: 22px;
+	/* this is not inherited */
+	border: 3px solid black;
 }
 
 h1, h2 {
 	color: blue;
 }
 
+/* element selector */
 p {
 	color: purple;
 }
 
+/* class selector */
+.gray {
+	color: gray;
+}
+
+/* id selector */
+#second {
+	font-style: italic;
+}
+
 /* FORM elements do not tipically inherit font settings */
-button, input {
+button, input, textarea, select {
 	font: inherit;
 }
 
@@ -24,10 +43,3 @@ button, input {
 	background-color: gold;
 }
 
-.gray {
-	color: grey;
-}
-
-#second {
-	font-style: italic;
-}
