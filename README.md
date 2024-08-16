@@ -34,4 +34,5 @@ Complete all-in-one HTML tutorial by Dave Gray.
 - [CSS Validation Service](https://jigsaw.w3.org/css-validator/)
 - [Anatomy of a CSS ruleset](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics#anatomy_of_a_css_ruleset)
 - [CSS Specificity Calculator](https://specificity.keegan.st/)
-- [Color Contrast Checker](https://coolors.co/)
+- [Color Palette Generator](https://coolors.co/)
+- [Color Contrast Checker](https://webaim.org/resources/contrastchecker/)

@@ -3,12 +3,11 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   line-height: 1.5;
   background-color: papayawhip;
-  color: rgb(0, 0, 0);
+  color: black;
 }
 
 p {
-	color: rgba(0, 0, 0, 0.5);
-	color: #000000;
-	color: rgb(255, 0, 0);
-	color: rgb(10, 81, 235)
+	color: #0000AA;
+  color: rgb(255, 0, 0);
+  color: rgba(0, 0, 0, 0.5);
 }
