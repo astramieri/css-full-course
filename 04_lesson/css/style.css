@@ -6,7 +6,7 @@
 
 body {
 	width: 100%;
-	min-height: 100vw;
+	min-height: 100vh;
 }
 
 header {
@@ -22,12 +22,13 @@ h1 {
 }
 
 main {
+	background-color: skyblue;
 	font-size: 2rem;
 }
 
 p {
-	font-size: 16px; /* default */
-	font-size: 1rem; /* default */
-	font-size: 2rem;
-	width: 40ch;
+	font-size: 16px; /* this is the default for many browser - NOT RECOMMENDED */
+	font-size: 1rem; /* this is the default - REM = root element */
+	font-size: 2rem; 
+	width: 30ch;
 }

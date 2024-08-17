@@ -26,6 +26,9 @@ Complete all-in-one HTML tutorial by Dave Gray.
 - CSS Units
 	- absolute (e.g. pixels)
 	- relative (e.g. rem or em)
+		- ```<em>``` unit means *my parent element's font-size*
+		- ```<rem>``` unit means *the root element's font-size* (```<html>```)
+		
 	- percentage
 
 ## Links
