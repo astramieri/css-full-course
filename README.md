@@ -10,6 +10,7 @@ Complete all-in-one HTML tutorial by Dave Gray.
 4. Units & Sizes
 5. Box Model
 6. Typography
+7. Styling Links
 
 ## Main Topics
 
@@ -20,6 +21,7 @@ Complete all-in-one HTML tutorial by Dave Gray.
 - CSS Selectors (specificity order)
 	- universal selector
 	- element selector
+	- pseudo-class selector
 	- class selector
 	- id selector
 - CSS Property Inheritance

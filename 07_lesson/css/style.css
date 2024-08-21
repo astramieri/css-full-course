@@ -1,0 +1,23 @@
+body {
+  padding: 10%;
+  font-size: 2rem;
+  font-family: sans-serif
+}
+
+a {
+  text-decoration: underline; /* default */
+  cursor: pointer;
+  color: orange;
+}
+
+a:visited { /* pseduo-class */
+  color: red;
+}
+
+a:hover, a:focus {
+  color: greenyellow;
+}
+
+a:active {
+  color: blue;
+}
