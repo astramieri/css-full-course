@@ -1,0 +1,32 @@
+@font-face {
+  font-family: 'CustomFont'; /* Name your font family */
+  src: url('toms_handwritten_new.ttf'); /* Locate the .ttf file within your directory*/
+}
+
+body {
+  padding: 10%;
+  font-size: 2rem;
+  color: purple;
+  font-family: sans-serif; /* generic family */
+  font-family: 'Courier New', Courier, monospace;
+  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'CustomFont', sans-serif; /* Use the font family */
+}
+
+input, button {
+  font: inherit;
+  color: inherit;
+}
+
+p {
+  text-decoration: none; /* default */
+  text-decoration: line-through;
+  text-transform: lowercase;
+  text-align: left; /* default */
+  text-align: justify;
+  line-height: 1.5em;
+  letter-spacing: 0.1em;
+  word-spacing: 1.3em;
+  font-weight: bolder;
+  font-style: italic;
+}

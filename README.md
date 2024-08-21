@@ -9,6 +9,7 @@ Complete all-in-one HTML tutorial by Dave Gray.
 3. Colors
 4. Units & Sizes
 5. Box Model
+6. Typography
 
 ## Main Topics
 
@@ -28,7 +29,6 @@ Complete all-in-one HTML tutorial by Dave Gray.
 	- relative (e.g. rem or em)
 		- ```<em>``` unit means *my parent element's font-size*
 		- ```<rem>``` unit means *the root element's font-size* (```<html>```)
-		
 	- percentage
 
 ## Links
