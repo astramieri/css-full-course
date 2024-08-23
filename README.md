@@ -12,6 +12,7 @@ Complete all-in-one HTML tutorial by Dave Gray.
 6. Typography
 7. Styling Links
 8. List Styles
+9. Mini Project
 
 ## Main Topics
 
