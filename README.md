@@ -11,6 +11,7 @@ Complete all-in-one HTML tutorial by Dave Gray.
 5. Box Model
 6. Typography
 7. Styling Links
+8. List Styles
 
 ## Main Topics
 

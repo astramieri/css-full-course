@@ -1,0 +1,41 @@
+body {
+  padding: 5% 10%;
+  font-size: 2rem;
+  font-family: sans-serif
+}
+
+ol {
+  list-style-type: decimal; /* default */
+  list-style-type: lower-alpha;
+  /*
+  list-style: none;
+  */
+}
+
+ul {
+  /*
+  list-style-type: square;
+  list-style-image: url('check_icon.png');
+  list-style-position: outside;
+  */
+  color: blue;
+  line-height: 1.6;
+}
+
+li {
+  color: red;
+}
+
+ul li {
+  color: orange;
+}
+
+ul li:nth-child(odd) {
+  color: brown;
+}
+
+::marker {
+  color: black;
+  font-size: 1em;
+  content: "This! >";
+}
