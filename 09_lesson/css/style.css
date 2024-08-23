@@ -9,3 +9,48 @@ body {
   font-family: sans-serif;
   text-align: center;
 }
+
+nav {
+  border: 2px solid #333;
+  border-radius: 2rem;
+  margin: 0 auto 1rem;
+  max-width: 600px;
+  font-size: 3rem;
+  line-height: 7rem;
+}
+
+h2 {
+  padding: 1rem;
+  background-color: gold;
+  border-radius: 2rem 2rem 0 0; /* it starts top-left */
+}
+
+ul {
+  list-style-position: inside;
+  list-style-type: none;
+}
+
+li {
+  border-top: 2px solid #333;
+}
+
+li a {
+  display: block;
+}
+
+li a,
+li a:visited {
+  text-decoration: none;
+  color: #333;
+}
+
+li a:hover,
+li a:focus {
+  background: #333;
+  color: whitesmoke;
+  cursor: pointer;
+}
+
+li:last-child a {
+  border-radius: 0 0 1.7rem 1.7rem;
+}
