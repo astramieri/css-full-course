@@ -4,15 +4,16 @@ Complete all-in-one HTML tutorial by Dave Gray.
 
 ## Lessons
 
-1. Introduction
-2. Selectors
-3. Colors
-4. Units & Sizes
-5. Box Model
-6. Typography
-7. Styling Links
-8. List Styles
-9. Mini Project
+01. Introduction
+02. Selectors
+03. Colors
+04. Units & Sizes
+05. Box Model
+06. Typography
+07. Styling Links
+08. List Styles
+09. Mini Project
+10. Display
 
 ## Main Topics
 
@@ -34,6 +35,16 @@ Complete all-in-one HTML tutorial by Dave Gray.
 		- ```<em>``` unit means *my parent element's font-size*
 		- ```<rem>``` unit means *the root element's font-size* (```<html>```)
 	- percentage
+- CSS Display
+	- block
+		- each element stacks on top of each other
+		- each element automatically has a 100% width
+	- inline
+		- each element do **not** stack on top of each other
+		- each element do **not** create a new line
+	- inline-block
+		- each element keeps the content inline
+		- each element can apply block properties
 
 ## Links
 

@@ -1,0 +1,40 @@
+body {
+  font-size: 2rem;
+  font-family: sans-serif;
+}
+
+p {
+  background-color: lightgrey;
+}
+
+span.opposite {
+  display: inline-block;
+  background-color: #333;
+  color: whitesmoke;
+  margin-top: 100px; /* you can't apply margin to an inline element */
+  padding: 2rem;
+}
+
+ul {
+  list-style-type: none; /* it removes bullets */
+  padding: 0.5rem; /* it removes padding */
+  text-align: right;
+  background-color: lightgray;
+  margin: 0;
+}
+
+li {
+  display: inline-block;
+  margin-inline: 0.5rem;
+}
+
+li a {
+  color: #444;
+  text-decoration: none;
+}
+
+li a:hover, 
+li a:focus {
+  color: #444;
+  text-decoration: underline;
+}
