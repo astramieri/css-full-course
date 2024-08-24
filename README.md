@@ -14,6 +14,7 @@ Complete all-in-one HTML tutorial by Dave Gray.
 08. List Styles
 09. Mini Project
 10. Display
+11. Floats
 
 ## Main Topics
 
@@ -45,6 +46,11 @@ Complete all-in-one HTML tutorial by Dave Gray.
 	- inline-block
 		- each element keeps the content inline
 		- each element can apply block properties
+	- float
+		- it places an element on the left or right side of its container
+		- text and inline elements wrap around it
+	- flow-root
+		- the container contains the float element
 
 ## Links
 
