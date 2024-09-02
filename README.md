@@ -15,6 +15,7 @@ Complete all-in-one HTML tutorial by Dave Gray.
 09. Mini Project
 10. Display
 11. Floats
+12. Columns
 
 ## Main Topics
 
